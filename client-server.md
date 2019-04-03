@@ -22,7 +22,7 @@ for cmd prompt:
 
 ### Python Setup
 
-After you've installed chocolatey, run the following command in your command prompt/powershell in administrator mode to install NodeJS:
+After you've installed chocolatey, run the following command in your command prompt/powershell in administrator mode to install Python:
 
 ````
 choco install python -y
